@@ -25,6 +25,8 @@ source-repository head
 library
   exposed-modules:
       Parser
+      ParserMonad
+      Scanner
       Term
   other-modules:
       Paths_elo_haskell
